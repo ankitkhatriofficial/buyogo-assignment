@@ -36,6 +36,7 @@ curl --location 'http://localhost:8080/training-center' \
 
 **Endpoint:**  
 `GET /training-center`
+
 **Request Example:**
 ```sh
 curl --location 'http://localhost:8080/training-center'
@@ -45,6 +46,7 @@ curl --location 'http://localhost:8080/training-center'
 
 **Endpoint:**  
 `GET /training-center/{trainingCenterId}`
+
 **Request Example:**
 ```sh
 curl --location 'http://localhost:8080/training-center/67af31f549e1e247d3e2b9c6'
